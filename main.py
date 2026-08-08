@@ -22,4 +22,4 @@ async def on_ready():
     else:
         print("Voice channel not found!")
 
-bot.run("MTUzNTc1NjU3MTA1NTc1NTM5NC5GdTJHOy5jN2FjVGh2VUsINDByLUtqc0FjL1ItR3dTYXQt")
+bot.run("MTUzNTc1Nju3MTA1NTc1NTM5NC5GX2E0rn.8fggUZOCA-PW27_nNtLDsnaJEjRaQ3ilqFMmTQ")
